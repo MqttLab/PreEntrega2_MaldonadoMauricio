@@ -1,0 +1,22 @@
+Consigna:
+
+* Incorporar al menos un Array en tu proyecto.
+* Utilizar algunos de los métodos o propiedades vistos en clases
+
+Formato
+
+* Página HTML y código fuente en Javascript
+
+Aspectos a incluir
+
+* Archivo HTML y Archivo JS, referenciado en el HTML por etiqueta
+<script src="js/miarchivo.js"></script>, que incluya la definicion de un algoritmo en JavaScript que emplee array para agrupar elementos similares
+
+Sugerencias
+
+* Los Array cumplen el papel de lsitas en el programa. Principalmente, los usamos para agrupar elementos de un mismo tipo. Siemre que sea posible emplear los metodos disponibles para trabajar con ellos.
+
+Ejemplo
+
+* Podemos crear arrays para objetos identificados en el simulador anterior
+Ejemplo: Array de productos, Array de Personas, Array de libros, Array de Autos, Array de Comidas, Array de bebidas, Array de bebidas, Array de tareas, etc...
